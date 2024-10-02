@@ -1,0 +1,48 @@
+/* variables */
+$color-secondary: #b2b2b2;
+
+/* base */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+/* layout */
+
+nav ul li a {
+  color: $color-secondary;
+  display: flex;
+  gap: 1em;
+}
+
+nav {
+   align-items: first baseline;
+}
+
+footer {
+   display: flex;
+   gap: 1em;
+   align-items: center;
+}  
+
+/* components */
+
+h1 {
+  align-items: first baseline;
+}
+

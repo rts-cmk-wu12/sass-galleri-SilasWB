@@ -1,0 +1,54 @@
+/* variables */
+/* base */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+img {
+  width: 17.5em;
+  height: auto;
+  display: block;
+}
+
+/* layout */
+nav ul li a {
+  color: #b2b2b2;
+}
+
+nav ul {
+  display: flex;
+  gap: 1em;
+}
+
+nav {
+  align-items: first baseline;
+}
+
+footer {
+  display: flex;
+  gap: 1em;
+  align-items: center;
+}
+
+.img-container {
+  display: flex;
+  gap: 1em;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+/* components */
+h1 {
+  display: flex;
+}/*# sourceMappingURL=main.css.map */
