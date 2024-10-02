@@ -1,4 +1,7 @@
+/* variables */
+$color-secondary: #b2b2b2;
 
+/* base */
 * {
   margin: 0;
   padding: 0;
@@ -19,3 +22,27 @@ img {
   height: auto;
   display: block;
 }
+/* layout */
+
+nav ul li a {
+  color: $color-secondary;
+  display: flex;
+  gap: 1em;
+}
+
+nav {
+   align-items: first baseline;
+}
+
+footer {
+   display: flex;
+   gap: 1em;
+   align-items: center;
+}  
+
+/* components */
+
+h1 {
+  align-items: first baseline;
+}
+

@@ -24,12 +24,8 @@
       img.alt = product.name;
       img.className = 'gallery-img';
 
-      const overlay = document.createElement('div');
-      overlay.className = 'img-overlay';
-      overlay.textContent = product.name;
 
       imgWrapper.appendChild(img);
-      imgWrapper.appendChild(overlay);
 
       return imgWrapper;
     }
