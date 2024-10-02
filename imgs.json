@@ -1,0 +1,80 @@
+{
+    "products": [
+      {
+        "name": "Apples",
+        "image": "1.jpg"
+      },
+      {
+        "name": "Garden",
+        "image": "2.jpg"
+      },
+      {
+        "name": "Beetroot",
+        "image": "3.jpg"
+      },
+      {
+        "name": "Grass",
+        "image": "4.jpg"
+      },
+      {
+        "name": "Fruits",
+        "image": "5.jpg"
+      },
+      {
+        "name": "Tomatoes and PepperFruit",
+        "image": "6.jpg"
+      },
+      {
+        "name": "Flowers",
+        "image": "7.jpg"
+      },
+      {
+        "name": "Plant",
+        "image": "8.jpg"
+      },
+      {
+        "name": "Pots with Plants",
+        "image": "9.jpg"
+      },
+      {
+        "name": "Leafs",
+        "image": "10.jpg"
+      },
+      {
+        "name": "Fruits",
+        "image": "11.jpg"
+      },
+      {
+        "name": "Lake",
+        "image": "12.jpg"
+      },
+      {
+        "name": "House",
+        "image": "13.jpg"
+      },
+      {
+        "name": "Grapes",
+        "image": "14.jpg"
+      },
+      {
+        "name": "Tomatoes",
+        "image": "15.jpg"
+      },
+      {
+        "name": "Garden House",
+        "image": "16.jpg"
+      },
+      {
+        "name": "Garden Art",
+        "image": "17.jpg"
+      },
+      {
+        "name": "Flower Lake",
+        "image": "18.jpg"
+      },
+      {
+        "name": "Watermelon",
+        "image": "20.jpg"
+      }
+    ]
+}   
